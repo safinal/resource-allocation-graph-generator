@@ -1,3 +1,3 @@
-# resource-allocation-graph-generator
+# Resource Allocation Graph Generator
 
 A simple program to generate RAG by getting custom inputs.
